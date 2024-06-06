@@ -1,0 +1,10 @@
+{
+  "moodType": "{moodType, select, joy {Радость} fear {Страх} rabies {Бешенство} sadness {Грусть} calmness {Спокойствие} force{Сила}}",
+  "whatDoYouFeel": "Что чувствуешь?",
+  "stressLevel": "Уровень стресса",
+  "selfRespect": "Самооценка",
+  "notes": "Заметки",
+  "moodSurveyNoteHintText": "Сегодня я чувствую себя хорошо|",
+  "save": "Сохранить",
+  "today": "Сегодня"
+}
